@@ -16,7 +16,7 @@
 - [docker network ls-列出docker网络 ](../docker/docker%20network%20ls-列出docker网络.md)
 - [docker inspect-获取详细元数据](../docker/docker%20inspect-获取详细元数据.md)
 - [docker logs-查看容器日志](../docker/docker%20logs-查看容器日志.md)
-- [docker rmi-删除本地镜像](../docker/docker%20rmi-删除本地镜像.md)
+- [docker rmi-删除镜像](../docker/docker%20rmi-删除本地镜像.md)
 - [docker rm-删除已停止容器](../docker/docker%20rm-删除已停止容器.md)
 - [docker restart-重启容器](../docker/docker%20restart-重启容器.md)
 - [docker image-列出本地镜像](../docker/docker%20image-列出本地镜像.md)
